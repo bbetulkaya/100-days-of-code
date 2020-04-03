@@ -31,3 +31,13 @@
 - [DataCamp Practice](https://learn.datacamp.com/practice)
 
 **Thoughts**: i am really freak out today. Because i didn't code anything until 11pm. Normally i am never really freak out that reason but 100daysofcode challenge change me and i did a simple project just in one hour. i was so happy when i did a this project. Hopefully i can make a more complex and big project another days.
+
+### Day 4: April 02, Thursday
+
+**Today's Progress**:
+- Finished Introduction to Data Visualization with Matplotlib lesson
+
+**Link(s) to work**:
+- [DataCamp Introduction to Data Visualization with Matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
+
+**Thoughts**: It's was really fun when make a data visualization. 
