@@ -41,3 +41,25 @@
 - [DataCamp Introduction to Data Visualization with Matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 
 **Thoughts**: It's was really fun when make a data visualization. 
+
+### Day 5: April 03, Friday
+
+**Today's Progress**:
+- Finished Introduction to Data Visualization with Seaborn lesson
+
+**Link(s) to work**:
+- [DataCamp Introduction to Data Visualization with Seaborn](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
+
+**Thoughts**: It's keep great now.
+
+### Day 6: April 04, Saturday
+
+**Today's Progress**:
+- Finished Python Data Science Toolbox lesson
+- Finished homework about MIPS 
+- And found a Automate the Boring Stuff book about basic Python Project
+
+**Link(s) to work**:
+- [DataCamp Python Data Science Toolbox](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1)
+
+**Thoughts**: I saw lots of 0 and 1 today. It's feels like I am a computer. 
